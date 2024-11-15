@@ -1,0 +1,17 @@
+CORS library.(YT - Technical suneja)
+
+=> Why Use CORS?(Cross-origin resource Sharing)
+The reasons to use CORS in the application are-
+
+=> Security: CORS helps to prevent malicious websites from accessing sensitive information on your server.
+=> Resource Sharing: It allows controlled access to resources on a server from a different origin, enabling web applications to make API requests to external services.
+
+=> If one origin sent req. to the other origin for access some data or method and the other origin will give the res. the method that has been asked in it should be true and also allow origin. 
+
+
+2. status(422) : Unprocessable content
+
+3. Multer middleware :
+
+When a client sends a file to the server (usually via an HTML form with enctype="multipart/form-data"), Multer processes this file and saves it on the server.
+
